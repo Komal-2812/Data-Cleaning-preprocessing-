@@ -44,5 +44,5 @@
 - Ready for further analysis, visualization, or modeling.
 
 ## 📂 Output File
-"C:\Users\91743\Desktop\DA internship\amazon_cleaned_full.csv"
+"amazon_cleaned_full.csv"
 **
